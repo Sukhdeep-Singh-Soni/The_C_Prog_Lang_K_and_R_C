@@ -26,3 +26,11 @@ main() {
 	fahr = fahr + step;
     }
 }
+
+/*  The addition of
+    printf("-------------------------\n");
+    printf("Fahrenheit\tCelsius\n");
+    printf("-------------------------\n");
+before the loop produces a heading above the appropriate columns. We also
+added two spaces between %6.0f  and 14.1f  to align the output with the head­
+ing. The remainder of the program is the same as on page 12 K&R. */
